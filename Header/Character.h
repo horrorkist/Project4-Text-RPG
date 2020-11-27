@@ -14,6 +14,7 @@ public:
 	int		iMaxAtt;
 	int		iMinAtt;
 	int		iDef;
+	int corrected;
 
 private:
 
